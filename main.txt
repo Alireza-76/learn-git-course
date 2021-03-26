@@ -4,3 +4,5 @@ line 2.5
 line 3 () changed
 line 4 edited
 line 5 
+
+line 7
